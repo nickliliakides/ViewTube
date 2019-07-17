@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ViewTube/precache-manifest.4af7062f08eb97cf6954dd6f47af5247.js"
+  "/ViewTube/precache-manifest.ad4de6be07e1aa44a7a529acf87649dd.js"
 );
 
 workbox.clientsClaim();
