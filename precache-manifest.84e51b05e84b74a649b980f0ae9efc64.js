@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ViewTube/static/media/samuel-zeller-154708-unsplash.689ec528.jpg"
   },
   {
-    "revision": "8b3cb40ccf4ec8a454712056ccfc6731",
+    "revision": "24d6d75c68e5e2ec7f132a768c91e299",
     "url": "/ViewTube/index.html"
   }
 ];
